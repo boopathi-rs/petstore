@@ -5,3 +5,4 @@ line4
 line5 - direct master commit
 line5 - feature 1
 line6 - feature 1
+line7 - feature 1 - after rebase 1
